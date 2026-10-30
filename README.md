@@ -206,4 +206,4 @@ CutMaster2D is offered as a full free version, which includes all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-29 20:08:37 UTC
+**Last updated:** 2026-10-30 00:43:26 UTC
